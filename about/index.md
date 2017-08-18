@@ -3,4 +3,12 @@ title: about
 layout: page
 ---
 
-Building...
+# who am i
+```
+: Malware Analysis & Development of Anti Malware Solution
+```
+
+# current interest
+```
+: android, malware analysis, reversing engineering, vulnerability...
+```
